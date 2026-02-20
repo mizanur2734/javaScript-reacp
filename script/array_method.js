@@ -13,5 +13,5 @@ const products = [
 
 // const result = products.filter(product => product.price < 10000);
 
-const result = products.find((product) => product.price < 10000);
-console.log(result);
+// const result = products.find((product) => product.price < 10000);
+// console.log(result);
