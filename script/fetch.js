@@ -38,20 +38,20 @@
 // console.log(keys);
 // console.log(values)
 
-const products = [
-  { name: "laptop", price: 32000, brand: "lenovo", color: "silver" },
-  { name: "phone", price: 7000, brand: "iphone", color: "golden" },
-  { name: "watch", price: 3000, brand: "casio", color: "black" },
-  { name: "sunglass", price: 300, brand: "ribon", color: "yellow" },
-  { name: "camera", price: 9000, brand: "canon", color: "gray" },
-];
+// const products = [
+//   { name: "laptop", price: 32000, brand: "lenovo", color: "silver" },
+//   { name: "phone", price: 7000, brand: "iphone", color: "golden" },
+//   { name: "watch", price: 3000, brand: "casio", color: "black" },
+//   { name: "sunglass", price: 300, brand: "ribon", color: "yellow" },
+//   { name: "camera", price: 9000, brand: "canon", color: "gray" },
+// ];
 
-const newData = 
-    {
-        name: "laptop", price: 31000, brand: "lenovo", color: "silver"
-    }
+// const newData = 
+//     {
+//         name: "laptop", price: 31000, brand: "lenovo", color: "silver"
+//     }
 
-const newArray2 = [...products, newData];
-// console.log(newArray2)
-const remaining = products.filter(product => product.brand !== "lenovo");
-// console.log(remaining)
+// const newArray2 = [...products, newData];
+// // console.log(newArray2)
+// const remaining = products.filter(product => product.brand !== "lenovo");
+// // console.log(remaining)
