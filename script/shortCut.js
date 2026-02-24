@@ -27,6 +27,6 @@
 // isActive ? showUser() : hideUser();
 // isActive || hideUser();
 
-let num = "5";
-const result = "" + num
-console.log(typeof result)
+// let num = "5";
+// const result = "" + num
+// console.log(typeof result)
