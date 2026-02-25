@@ -10,3 +10,6 @@ const name = person["name"];
 const ten = person[10];
 console.log(name)
 console.log(ten)
+
+const friend = person.friends[2];
+console.log(friend)
