@@ -11,9 +11,3 @@ const ten = person[10];
 console.log(name)
 console.log(ten)
 
-const friend = person.friends[2];
-console.log(friend)
-
-const {name: personName, age: personAge} = person;
-console.log(personName)
-console.log(personAge)
