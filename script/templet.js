@@ -13,3 +13,12 @@
 // const numbers = [1, 2, 3, 4, 5];
 // const newArry = [...numbers, 6, 7, 8];
 // console.log(newArry)
+
+const person = {
+    name: "John Doe",
+    age: 30,
+    city: "New York",
+    friends: ['Tom', 'Jerry', 'Mickey', 'Donald']
+}
+const {name, age} = person;
+console.log(`My name is ${name} and I am ${age} years old.`)

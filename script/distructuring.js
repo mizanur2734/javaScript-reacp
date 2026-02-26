@@ -12,3 +12,4 @@
 
 // const {name, age} = person;
 // console.log(person)
+
