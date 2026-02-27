@@ -20,5 +20,3 @@ const person = {
     city: "New York",
     friends: ['Tom', 'Jerry', 'Mickey', 'Donald']
 }
-const {name, age} = person;
-console.log(`My name is ${name} and I am ${age} years old.`)
